@@ -1,0 +1,30 @@
+﻿@charset "utf-8";
+html, body, div, p, ul, ol, li, h1, h2, h3, h4, h5, h6, form, input, select, button, textarea, img, a ,table, tbody, tr, th, td{margin: 0; padding: 0; font-family: 'Microsoft YaHei', Arial;}
+img {border: 0 none;}
+a {text-decoration:none; outline: none;}
+.w1000{ width: 1000px; margin: 0 auto}
+.pic01{ height: 354px; background: url("../images/pc_0428_pic01.jpg") no-repeat center;}
+.pic02{ height: 239px; background: url("../images/pc_0428_pic02.jpg") no-repeat center;}
+.pic03{ height: 275px; background: url("../images/pc_0428_pic03.jpg") no-repeat center;}
+.qr_code1 img{ width: 222px; height: 222px; margin-left: 393px; float: left;}
+.qr_code2 img{ width: 273px; height: 273px; margin-left: 47px;}
+.pic03 p{ width: 230px; font-size: 24px; color: #fff3cb; float: left; margin: 112px 0 0 35px; text-align: center;}
+.pic04{ height: 349px; background: url("../images/pc_0428_pic04.jpg") no-repeat center;}
+.pic05{ height: 349px; background: url("../images/pc_0428_pic05.jpg") no-repeat center;}
+.pic06{ height: 245px; background: url("../images/pc_0428_pic06.jpg") no-repeat center;}
+.pic07{ height: 387px; background: url("../images/pc_0428_pic07.jpg") no-repeat center;}
+.pic08{ height: 349px; background: url("../images/pc_0428_pic08.jpg") no-repeat center;}
+.footer{
+	width: 100%;
+	max-width: 1920px;
+	min-width: 1150px;
+	margin: 0 auto;
+	height: 155px;
+	padding-top: 25px;
+	text-align: center;
+	font-size: 18px;
+	color: #FFFFFF;
+	line-height: 30px;
+	background: #070304;
+}
+.footer a{color:#331e21;}
